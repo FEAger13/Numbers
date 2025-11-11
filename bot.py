@@ -12,7 +12,7 @@ BOT_TOKEN = os.environ.get('BOT_TOKEN')
 TELEGRAM_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 # Твой chat_id (администратора) - замени на свой
-ADMIN_CHAT_ID = "123456789"  # ЗАМЕНИ НА СВОЙ CHAT_ID
+ADMIN_CHAT_ID = "7694636255"  # ЗАМЕНИ НА СВОЙ CHAT_ID
 
 # Клавиатура с кнопкой "Поделиться номером"
 share_phone_keyboard = {
